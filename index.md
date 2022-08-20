@@ -1,7 +1,5 @@
 # Hello! 👋
 
-My name is **Emmet Coughlan**, and I like computers.
-
 ## Socials
 
 - 🐦 I'm on twitter as [@lordemmet](https://twitter.com/Lordemmet)
