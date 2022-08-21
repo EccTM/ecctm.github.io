@@ -1,5 +1,7 @@
 ---
+paginate: true
 title: Hello 👋
+image: /assets/images/amine-ounnas-180287.jpg
 ---
 
 ## Socials
@@ -10,5 +12,5 @@ title: Hello 👋
 
 ## Github Projects
 
-- I have a small startpage I built in Bootstrap called [Noodles](https://ecctm.github.io/Noodles/) 
+- I have a small startpage I built in Bootstrap called [Noodles](https://ecctm.github.io/Noodles/)
 - I made a Rainmeter skin set, [Conky Gemini](https://github.com/EccTM/Conky-Gemini), to nicely display system info on Windows
