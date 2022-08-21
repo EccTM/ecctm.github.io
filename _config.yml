@@ -5,7 +5,7 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic"
 lang: en-US
 title: EmmetCoughlan.com
 email: admin@emmetcoughlan.com
-description: Development / Gaming / Music 
+description: "A personal website dedicated to my interests of Programming, Gaming, TV and Music"
 baseurl: ""  # subpath: /blog
 url: "https://www.emmetcoughlan.com" # base hostname & protocol: https://example.com
 author:
@@ -14,10 +14,32 @@ author:
   picture: /assets/images/johndoe.png
 twitter_username: Lordemmet
 github_username: EccTM
-logo: /assets/icons/basically-basic-logo-dark.svg
+logo: /assets/icons/basically-basic-logo-light.svg
 search: true
 search_full_content: true
 search_provider: lunr
+#algolia:
+#  application_id:      # YOUR_APPLICATION_ID
+#  index_name:          # YOUR_INDEX_NAME
+#  search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
+#  powered_by:          # true (default), false
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
 
 # Outputting
 permalink: /:categories/:title/
