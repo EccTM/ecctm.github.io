@@ -6,4 +6,4 @@ collection: projects
 entries_layout: grid
 ---
 
-Sample document listing for the collection `_projects`.
+A collection of articles about my GitHub projects

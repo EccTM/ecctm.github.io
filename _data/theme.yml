@@ -48,6 +48,5 @@ navigation_pages:
   - about.md
   - posts.md
   - projects.md
-  - cv.md
   - tags.md
-  - categories.md
+  - cv.md
