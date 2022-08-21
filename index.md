@@ -1,6 +1,4 @@
----
-title: Hello 👋
----
+# Hello 👋
 
 ## Socials
 
