@@ -1,4 +1,5 @@
-# Hello! 👋
+layout: home
+title: Hello 👋
 
 ## Socials
 

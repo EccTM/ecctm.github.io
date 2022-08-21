@@ -1,6 +1,12 @@
-theme: minima
 title: Emmet Coughlan
-email: admin@emmetcoughlan.com
 description: Development / Gaming / Music 
-social.github: EccTM
-social.twitter: Lordemmet
+author:
+  name: EccTM
+  email: admin@emmetcoughlan.com
+theme: minima
+
+minima:
+  social_links:
+    twitter: Lordemmet
+    github: EccTM
+    youtube_channel: UCqsLqIJzoQqMOOHbwj1pOeg
