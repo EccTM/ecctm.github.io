@@ -2,10 +2,15 @@ title: Emmet Coughlan
 description: Development / Gaming / Music 
 name: EccTM
 email: admin@emmetcoughlan.com
-theme: minima
 
 minima:
+  skin: dark
+
   social_links:
     twitter: Lordemmet
     github: EccTM
     youtube_channel: UCqsLqIJzoQqMOOHbwj1pOeg
+
+header_pages:
+
+theme: minima
