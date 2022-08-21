@@ -1,16 +1,12 @@
 title: Emmet Coughlan
 description: Development / Gaming / Music 
-name: EccTM
+name: Emmet Coughlan
 email: admin@emmetcoughlan.com
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 
-minima:
-  skin: dark
-
-  social_links:
-    twitter: Lordemmet
-    github: EccTM
-    youtube_channel: UCqsLqIJzoQqMOOHbwj1pOeg
-
-header_pages:
-
-theme: minima
+author:
+  name: Emmet Coughlan
+  twitter: Lordemmet
+  picture:
+twitter_username: Lordemmet
+github_username: EccTM
