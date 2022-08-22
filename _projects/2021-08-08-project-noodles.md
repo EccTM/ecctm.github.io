@@ -1,7 +1,7 @@
 ---
 title: "Noodles"
 image:
-  path: /assets/images/project-noodles-lg.jpg
+  path: /assets/images/project-noodles-lg.png
   thumbnail: /assets/images/project-noodles-thumb.png
   caption: "my no-nonsense web startpage"
 ---
