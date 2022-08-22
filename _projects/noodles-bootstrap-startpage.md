@@ -1,8 +1,8 @@
 ---
 title: "Noodles: A purpose-first Startpage"
 image: 
-  image: /assets/images/noodles-bootstrap-startpage-lg.png
-  thumbnail: /assets/images/noodles-bootstrap-startpage-thumb.png
+  image: ../assets/images/noodles-bootstrap-startpage-lg.jpg
+  thumbnail: ../assets/images/noodles-bootstrap-startpage-thumb.png
   caption: "my no-nonsense web startpage"
 ---
 
