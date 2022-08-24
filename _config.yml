@@ -5,7 +5,7 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic"
 lang: en-US
 title: EmmetCoughlan.com
 email: admin@emmetcoughlan.com
-description: "A personal website dedicated to my interests of Programming, Gaming, TV and Music"
+description: ""
 baseurl: ""
 url: "https://www.emmetcoughlan.com"
 logo: /assets/logos/logo-emmet-space.png
