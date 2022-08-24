@@ -14,9 +14,9 @@ image:
 
 ## Origin
 
-[![Conky running on my Arch Linux netbook]({{ site.url }}{{ site.baseurl }}/assets/images/project-conky-gemini-pic1.png){: .align-right}]({{ site.url }}{{ site.baseurl }}/assets/images/project-conky-gemini-pic1.png)
+[![Conky running on my Arch Linux netbook](/assets/images/project-conky-gemini-pic1.png){: .align-right width="512" }](/assets/images/project-conky-gemini-pic1.png)
 
-I previously ran {% include icon-github.html username="brndnmtthws" %}[Conky](https://github.com/brndnmtthws/conky) on an Arch Linux netbook, and really missed having all my system info metrics available at a glance on my Windows 10 desktop. While looking for Windows alternatives to conky, I discovered a Rainmeter skin set I liked the style of called [Gemini Suite](https://www.deviantart.com/trucola/art/The-Gemini-Suite-805582955), created by TruCola.
+I previously ran {% include icon-github.html username="brndnmtthws" %}/[Conky](https://github.com/brndnmtthws/conky) on an Arch Linux netbook, and really missed having all my system info metrics available at a glance on my Windows 10 desktop. While looking for Windows alternatives to conky, I discovered a Rainmeter skin set I liked the style of called [Gemini Suite](https://www.deviantart.com/trucola/art/The-Gemini-Suite-805582955), created by TruCola.
 
 I started tweaking TruCola's Gemini Suite skin to include in the Conky-style icons and graphs that I liked, and that spawned the card-based Conky-Gemini as it is now.
 
