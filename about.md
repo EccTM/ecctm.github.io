@@ -6,10 +6,9 @@ layout: about
 
 
 <!-- Socials -->
-{% if site.socials %}
-
 ## Socials
 
+{% if site.socials %}
     <ul>
         {% if site.socials.github %}
             <li>{% include icon-github.html username=site.socials.github label='GitHub' %}</li>
