@@ -3,13 +3,28 @@ title: "About"
 layout: about
 ---
 
+
+
+<!-- Socials -->
+{% if site.socials %}
+
 ## Socials
 
-- 🐦 I'm on twitter as [@lordemmet](https://twitter.com/Lordemmet)
-- 🎮 My gamertag on Steam, Xbox and Playstation is **EccTM**
-- 📺 I'm a bit of a TV junkie, and track my viewing habits on [Trakt.tv](https://trakt.tv/users/ecctm)
+    <ul>
+        {% if site.socials.github %}
+            <li>{% include icon-github.html username=site.socials.github label='GitHub' %}</li>
+        {% endif %}
 
-## Github Projects
+        {% if site.socials.trakt %}
+            <li>{% include icon-trakt.html username=site.socials.trakt label='Trakt' %}</li>
+        {% endif %}
 
-- I created a small startpage in Bootstrap called {% include icon-github.html username="EccTM" %}/[Noodles](https://github.com/EccTM/Conky-Gemini) you can try [here](https://ecctm.github.io/Noodles/)
-- I also threw together a Rainmeter skin set, {% include icon-github.html username="EccTM" %}/[Conky Gemini](https://github.com/EccTM/Conky-Gemini), to nicely display system info on Windows.
+        {% if site.socials.twitter %}
+            <li>{% include icon-twitter.html username=site.socials.twitter label='Twitter' %}</li>
+        {% endif %}
+
+        {% if site.socials.youtube %}
+            <li>{% include icon-youtube.html username=site.socials.youtube label='YouTube' %}</li>
+        {% endif %}
+    </ul>
+{% endif %}
