@@ -53,7 +53,7 @@ kramdown:
 permalink: /:categories/:title/
 timezone: Europe/London
 
-# Plugins
+# Plugins (previously 'gems')
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
