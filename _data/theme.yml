@@ -34,6 +34,7 @@ t:
   cv_skills: "Skills"
   cv_volunteer: "Volunteer"
   cv_work: "Work"
+  projects: "Projects"
 
 # Google Fonts
 google_fonts:
