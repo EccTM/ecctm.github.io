@@ -1,128 +1,273 @@
 {
   "basics": {
-    "name": "Dugan Nash",
-    "label": "Very extravagant man",
-    "picture": "",
-    "email": "dugan.hash@mailinator.com",
-    "phone": "(555) 555-5555",
-    "website": "https://towlettepettetuc.ci",
-    "summary": "Nash is well versed in the Montoyan / Artesian Connection, preparation of grasshopper mash, and baking of grover loaves.",
-    "location": {
-      "address": "123 Sesame Street",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "Towlette_Pettetucci",
-        "url": "https://twitter.com/Towlette_Pettetucci"
+      "name": "Emmet Coughlan",
+      "label": "Programmer",
+      "image": "https://www.emmetcoughlan.com/assets/images/emmet-coughlan.jpg",
+      "email": "emmet@emmetcoughlan.com",
+      "phone": "",
+      "url": "https://emmetcoughlan.com",
+      "summary": "An inquisitive Systems Tester turned Administrator with 4+ years experience interacting directly with clients to effectively serve their needs.",
+      "location": {
+          "address": "",
+          "city": "Letterkenny",
+          "region": "Co. Donegal",
+          "postalCode": "",
+          "countryCode": "IE"
       },
-      {
-        "network": "SoundCloud",
-        "username": "Towlette_Pettetucci",
-        "url": "https://soundcloud.com/Towlette_Pettetucci"
-      }
-    ]
+      "profiles": [
+          {
+              "network": "Twitter",
+              "username": "lordemmet",
+              "url": "https://twitter.com/lordemmet"
+          },
+          {
+              "network": "Github",
+              "username": "EccTM",
+              "url": "https://github.com/EccTM"
+          }
+      ]
   },
   "work": [
-    {
-      "company": "The Whip",
-      "position": "CEO/President",
-      "website": "https://thewh.ip",
-      "startDate": "2013-12-01",
-      "endDate": "",
-      "summary": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
-      "highlights": [
-        "Concealed nipper in embrodiery.",
-        "Dealt with Elastical Gomez on a daily basis."
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Steve's Meat Market",
-      "position": "Assistant",
-      "website": "",
-      "startDate": "1995-01-01",
-      "endDate": "1997-03-20",
-      "summary": "Ground up some sort of grasshopper mash for fishing.",
-      "highlights": [
-        "Awarded a 'Helium Biscuit'"
-      ]
-    }
+      {
+          "name": "MABS North Donegal",
+          "position": "Administrator",
+          "url": "https://mabs.ie/",
+          "startDate": "2017-03-01",
+          "endDate": "2020-01-01",
+          "summary": "Performed front-of-house Reception and Administration duties to best facilitate appointments between clients and Money Advisers.",
+          "highlights": [
+              "Dealt with queries from clients, both in person and via phone calls/emails.",
+              "Acted as the first point of contact with new clients while maintaining a high level of confidentiality.",
+              "Conducted initial client assessment, added their details to MABSIS, and printed out a client file for Money Advisers to use.",
+              "Updated notes on client files via MABSIS in regard to correspondence, appointments, and debts.",
+              "Produced and posted out appointment letters to clients on behalf of the Coordinator and Money Advisers.",
+              "Performed a monthly stocktake of clients, closing out inactive files and verifying active cases.",
+              "Assisted in processing special accounts, by doing preparation tasks such as contacting Credit Unions for updated account balances."
+          ]
+      },
+      {
+          "name": "Congress Resource Centre",
+          "position": "Clerical Services",
+          "url": "https://www.resourcecentreletterkenny.com/",
+          "startDate": "2017-01-01",
+          "endDate": "2017-03-01",
+          "summary": "Performed general Administration tasks for the Centre and it's clients, such as typing letters and producing resumes.",
+          "highlights": [
+              "Designed a new brochure for the centre to better promote the courses and services offered.",
+              "Respected confidentiality while interacting with clients, and their personal data.",
+              "Pushed for an update of software used to host the Congress Centre's website, to maintain security standards.",
+              "Reliably and punctually provided finished projects to clients."
+          ]
+      },
+      {
+          "name": "Pramerica Systems Ireland",
+          "position": "Graduate QA Systems Tester",
+          "url": null,
+          "startDate": "2014-05-01",
+          "endDate": "2015-09-01",
+          "summary": "Produced and executed test plans to maintain the functionality of Compass billing software.",
+          "highlights": [
+              "Organised internationally attended status meetings on a weekly basis.",
+              "Provided reports and walkthroughs to development teams detailing and demonstrating issues.",
+              "Estimated project scope and timeframe, and adhered to submitted timescale as best as possible while working towards project milestones.",
+              "Wrote and executed test plans to identify errors with Compass, and verify any fixes provided by the development team.",
+              "Worked as part of a team to promote awareness of Business Process Testing internally, as part of a QA Key Initiative.",
+              "Helped Development automate Compass regression testing, allowing testers to focus more time towards functional testing."
+              ]
+      },
+      {
+          "name": "Coastal Signs",
+          "position": "Sign & Printing Specialist",
+          "url": null,
+          "startDate": "2013-06-01",
+          "endDate": "2013-07-01",
+          "summary": "Designed and produced vinyl graphics for customers, and applied them to their vehicle or premises.",
+          "highlights": [
+              "Designed graphics to client specific requirements in multiple design softwares.",
+              "Printed vinyl graphics for both signs and vehicles.",
+              "Assembled and installed signs at client premises.",
+              "Applied vinyl graphics to client vehicles."
+          ]
+      }
   ],
   "education": [
-    {
-      "institution": "University of Ointment",
-      "area": "Digital Skillets",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Perpendicular Crosstalk",
-        "CS2011 - Introduction to Moisturization"
-      ]
-    }
+      {
+          "institution": "Rossan College",
+          "url": "http://rossan.com/",
+          "area": "Payroll Manual and Computerised",
+          "studyType": "Level 5 FETAC",
+          "startDate": "2018-04-01",
+          "endDate": "2018-06-01",
+          "score": null,
+          "courses": null
+      },
+      {
+          "institution": "MABS NDL",
+          "url": "https://mabs.ie/",
+          "area": "Client Assessment Induction Training",
+          "studyType": "Level 3 FETAC",
+          "startDate": "2017-04-01",
+          "endDate": "2017-04-01",
+          "score": null,
+          "courses": null
+      },
+      {
+          "institution": "Rossan College",
+          "url": "http://rossan.com/",
+          "area": "Customer Service",
+          "studyType": "Level 5 FETAC",
+          "startDate": "2017-04-01",
+          "endDate": "2017-06-01",
+          "score": null,
+          "courses": null
+      },
+      {
+          "institution": "Safetech Consulting & Training",
+          "url": "https://www.safetech.ie/",
+          "area": "Health & Safety Awareness",
+          "studyType": "Level 3 FETAC",
+          "startDate": "2017-04-01",
+          "endDate": "2017-04-01",
+          "score": null,
+          "courses": null
+      },
+      {
+          "institution": "Safetech Consulting & Training",
+          "url": "https://www.safetech.ie/",
+          "area": "Primary Course in Food Hygiene",
+          "studyType": "Certificate",
+          "startDate": "2017-04-01",
+          "endDate": "2017-04-01",
+          "score": null,
+          "courses": null
+      },
+      {
+          "institution": "eCollege.ie",
+          "url": "https://www.ecollege.ie/",
+          "area": "Graphic Design & Illustration Using Adobe Illustrator",
+          "studyType": "Adobe Certificate",
+          "startDate": "2016-04-01",
+          "endDate": "2017-01-01",
+          "score": null,
+          "courses": null
+      },
+      {
+          "institution": "Solas Training Centre",
+          "url": "https://www.solas.ie/",
+          "area": "Software Developer",
+          "studyType": "City & Guilds",
+          "startDate": "2013-09-01",
+          "endDate": "2014-04-01",
+          "score": null,
+          "courses": [
+              "DB1101 - Need",
+              "DB1102 - to",
+              "DB1103 - find",
+              "DB1104 - these"
+          ]
+      },
+      {
+          "institution": "Letterkenny Institute of Technology",
+          "url": "https://www.lyit.ie/",
+          "area": "Computers with Computer Games Development",
+          "studyType": "Bachelor of Science",
+          "startDate": "2009-09-01",
+          "endDate": "2013-05-01",
+          "score": null,
+          "courses": [
+              "DB1101 - Need",
+              "DB1102 - to",
+              "DB1103 - find",
+              "DB1104 - these"
+          ]
+      },
+      {
+          "institution": "Abbey Vocational School",
+          "url": "https://institution.com/",
+          "area": "Leaving Certificate",
+          "studyType": "Level 5 FETAC",
+          "startDate": "2004-09-01",
+          "endDate": "2009-06-01",
+          "score": null,
+          "courses": null
+      }
   ],
   "awards": [
-    {
-      "title": "Warble Pioneer Award",
-      "date": "2001-11-01",
-      "awarder": "Levi Goulet",
-      "summary": "Have you seen my turtle?"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Radio Julius",
-      "publisher": "Tanyo Lubbock",
-      "releaseDate": "2014-10-01",
-      "website": "https://en.rhy.es",
-      "summary": "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test."
-    }
+      {
+          "title": "ISEB Foundation Certificate in Software Testing",
+          "date": "2014-11-01",
+          "awarder": "International Software Testing Qualifications Board (ISTQB)",
+          "summary": ""
+      }
   ],
   "skills": [
-    {
-      "name": "Audio Juggling",
-      "level": "Master",
-      "keywords": [
-        "Ointment",
-        "Voltor",
-        "Millipedes"
-      ]
-    },
-    {
-      "name": "Bruschotti",
-      "level": "Satisfactory",
-      "keywords": [
-        "Snow camp",
-        "Owl"
-      ]
-    }
+      {
+          "name": "Game Development",
+          "level": "advanced",
+          "keywords": [
+              "Unreal Engine",
+              "Unity",
+              "Blueprint",
+              "C#"
+          ]
+      },
+      {
+          "name": "Programming",
+          "level": "intermediate",
+          "keywords": [
+              "Python",
+              "Java",
+              "C++",
+              "SQL",
+              "COBOL",
+              "JCL"
+          ]
+      },
+      {
+          "name": "Web Development",
+          "level": "intermediate",
+          "keywords": [
+              "HTML",
+              "CSS",
+              "JavaScript",
+              "Jekyll",
+              "React"
+          ]
+      }
   ],
   "languages": [
-    {
-      "language": "Nonsense",
-      "fluency": "Native speaker"
-    }
+      {
+          "language": "English",
+          "fluency": "Native Speaker"
+      }
   ],
   "interests": [
-    {
-      "name": "The Information Superhighway",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": " Nannette Nananacci",
-      "reference": "It is my pleasure to recommend Dugan Nash, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
-    }
+      {
+          "name": "Music",
+          "keywords": [
+              "Rage Against the Machine",
+              "Doomtree",
+              "Beck",
+              "Gojira"
+          ]
+      },
+      {
+          "name": "TV Shows",
+          "keywords": [
+              "Breaking Bad",
+              "Sonys of Anarchy",
+              "Mr. Robot",
+              "My Name Is Earl"
+          ]
+      },
+      {
+          "name": "Pro Wrestling",
+          "keywords": [
+              "AEW",
+              "NJPW",
+              "GCW",
+              "NOAH"
+          ]
+      }
   ]
 }
