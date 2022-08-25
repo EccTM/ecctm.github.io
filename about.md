@@ -7,12 +7,12 @@ I'm a regular human that likes stuff and things, and this is the temporary gibbe
 
 ## Interests
 
-- Pro Wrestling
 - Music
 - TV Shows
+- Pro Wrestling
 - Cheesecake
 - Technology
-- rooms without moths
+- Rooms without Moths
 
 ## Socials
 <!-- Socials embedded into about.html -->

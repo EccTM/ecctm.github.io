@@ -62,7 +62,6 @@
       {
           "name": "Pramerica Systems Ireland",
           "position": "Graduate QA Systems Tester",
-          "url": null,
           "startDate": "2014-05-01",
           "endDate": "2015-09-01",
           "summary": "Produced and executed test plans to maintain the functionality of Compass billing software.",
@@ -73,12 +72,11 @@
               "Wrote and executed test plans to identify errors with Compass, and verify any fixes provided by the development team.",
               "Worked as part of a team to promote awareness of Business Process Testing internally, as part of a QA Key Initiative.",
               "Helped Development automate Compass regression testing, allowing testers to focus more time towards functional testing."
-              ]
+          ]
       },
       {
           "name": "Coastal Signs",
           "position": "Sign & Printing Specialist",
-          "url": null,
           "startDate": "2013-06-01",
           "endDate": "2013-07-01",
           "summary": "Designed and produced vinyl graphics for customers, and applied them to their vehicle or premises.",
@@ -97,9 +95,7 @@
           "area": "Payroll Manual and Computerised",
           "studyType": "Level 5 FETAC",
           "startDate": "2018-04-01",
-          "endDate": "2018-06-01",
-          "score": null,
-          "courses": null
+          "endDate": "2018-06-01"
       },
       {
           "institution": "MABS NDL",
@@ -107,9 +103,7 @@
           "area": "Client Assessment Induction Training",
           "studyType": "Level 3 FETAC",
           "startDate": "2017-04-01",
-          "endDate": "2017-04-01",
-          "score": null,
-          "courses": null
+          "endDate": "2017-04-01"
       },
       {
           "institution": "Rossan College",
@@ -117,9 +111,7 @@
           "area": "Customer Service",
           "studyType": "Level 5 FETAC",
           "startDate": "2017-04-01",
-          "endDate": "2017-06-01",
-          "score": null,
-          "courses": null
+          "endDate": "2017-06-01"
       },
       {
           "institution": "Safetech Consulting & Training",
@@ -127,9 +119,7 @@
           "area": "Health & Safety Awareness",
           "studyType": "Level 3 FETAC",
           "startDate": "2017-04-01",
-          "endDate": "2017-04-01",
-          "score": null,
-          "courses": null
+          "endDate": "2017-04-01"
       },
       {
           "institution": "Safetech Consulting & Training",
@@ -137,9 +127,7 @@
           "area": "Primary Course in Food Hygiene",
           "studyType": "Certificate",
           "startDate": "2017-04-01",
-          "endDate": "2017-04-01",
-          "score": null,
-          "courses": null
+          "endDate": "2017-04-01"
       },
       {
           "institution": "eCollege.ie",
@@ -147,9 +135,7 @@
           "area": "Graphic Design & Illustration Using Adobe Illustrator",
           "studyType": "Adobe Certificate",
           "startDate": "2016-04-01",
-          "endDate": "2017-01-01",
-          "score": null,
-          "courses": null
+          "endDate": "2017-01-01"
       },
       {
           "institution": "Solas Training Centre",
@@ -157,14 +143,7 @@
           "area": "Software Developer",
           "studyType": "City & Guilds",
           "startDate": "2013-09-01",
-          "endDate": "2014-04-01",
-          "score": null,
-          "courses": [
-              "DB1101 - Need",
-              "DB1102 - to",
-              "DB1103 - find",
-              "DB1104 - these"
-          ]
+          "endDate": "2014-04-01"
       },
       {
           "institution": "Letterkenny Institute of Technology",
@@ -172,24 +151,15 @@
           "area": "Computers with Computer Games Development",
           "studyType": "Bachelor of Science",
           "startDate": "2009-09-01",
-          "endDate": "2013-05-01",
-          "score": null,
-          "courses": [
-              "DB1101 - Need",
-              "DB1102 - to",
-              "DB1103 - find",
-              "DB1104 - these"
-          ]
+          "endDate": "2013-05-01"
       },
       {
           "institution": "Abbey Vocational School",
-          "url": "https://institution.com/",
+          "url": "https://www.avsdonegal.com/",
           "area": "Leaving Certificate",
           "studyType": "Level 5 FETAC",
           "startDate": "2004-09-01",
-          "endDate": "2009-06-01",
-          "score": null,
-          "courses": null
+          "endDate": "2009-06-01"
       }
   ],
   "awards": [
@@ -206,9 +176,7 @@
           "level": "advanced",
           "keywords": [
               "Unreal Engine",
-              "Unity",
-              "Blueprint",
-              "C#"
+              "Unity"
           ]
       },
       {
@@ -217,6 +185,7 @@
           "keywords": [
               "Python",
               "Java",
+              "C#",
               "C++",
               "SQL",
               "COBOL",
@@ -233,6 +202,16 @@
               "Jekyll",
               "React"
           ]
+      },
+      {
+          "name": "Creative Design",
+          "level": "intermediate",
+          "keywords": [
+              "Adobe Photoshop",
+              "Adobe Illustrator",
+              "Blender",
+              "GIMP"
+          ]
       }
   ],
   "languages": [
@@ -245,27 +224,27 @@
       {
           "name": "Music",
           "keywords": [
-              "Rage Against the Machine",
-              "Doomtree",
               "Beck",
-              "Gojira"
+              "Gojira",
+              "Doomtree",
+              "Rage Against the Machine"
           ]
       },
       {
           "name": "TV Shows",
           "keywords": [
-              "Breaking Bad",
-              "Sonys of Anarchy",
               "Mr. Robot",
-              "My Name Is Earl"
+              "Breaking Bad",
+              "My Name Is Earl",
+              "Sonys of Anarchy"
           ]
       },
       {
           "name": "Pro Wrestling",
           "keywords": [
               "AEW",
-              "NJPW",
               "GCW",
+              "NJPW",
               "NOAH"
           ]
       }
