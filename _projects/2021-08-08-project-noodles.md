@@ -23,7 +23,3 @@ I decided to take the oportunity to review what sites and shortcuts I actually u
 - simple logo buttons for each shortcut
 - shortcut names appear via tooltip on hover
 - swappable light and dark themes (that are remembered per-device)
-
-## Possible Improvements
-
-Seeing as I threw it together for my own use, the shortcuts are currently hard-coded into the project's `index.html` file. I'd like to expand on it and read the shortcuts in from a json file.
