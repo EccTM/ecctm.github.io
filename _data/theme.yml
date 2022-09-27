@@ -1,5 +1,5 @@
 # Theme Skin
-skin: steel # default, night, plum, sea, soft, steel
+skin: nightsteel # default, night, plum, sea, soft, steel, [C]nightsteel
 
 # Theme Text
 t:

@@ -4,14 +4,11 @@
       "label": "Programmer",
       "image": "https://www.emmetcoughlan.com/assets/images/emmet-coughlan.jpg",
       "email": "emmet@emmetcoughlan.com",
-      "phone": "",
       "url": "https://emmetcoughlan.com",
       "summary": "An inquisitive Systems Tester turned Administrator with 4+ years experience interacting directly with clients to effectively serve their needs.",
       "location": {
-          "address": "",
           "city": "Letterkenny",
           "region": "Co. Donegal",
-          "postalCode": "",
           "countryCode": "IE"
       },
       "profiles": [
